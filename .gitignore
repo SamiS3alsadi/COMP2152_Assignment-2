@@ -1,0 +1,4 @@
+
+# Ignore local generated files
+scan_history.db
+__pycache__/
